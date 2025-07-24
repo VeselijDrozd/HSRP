@@ -4,19 +4,19 @@
 
 
 
-`Настройки Router1
-![Router1](img/Router0.png)`
+Настройки Router1
+![Router1](img/Router0.png)
 
-`Настройки Router2
-![Router2](img/Router1.png)`
+Настройки Router2
+![Router2](img/Router1.png)
 
 [Файл схемы pkt](hsrp_grivnyashkinrv.pkt)
 ---
 
 ### Задание 2
 
-`Переключение сервера
-![keepalived_switch](img/keepalived_switch.png)`
+Переключение сервера
+![keepalived_switch](img/keepalived_switch.png)
 
 [keepalived config](keepalived.conf)
 
